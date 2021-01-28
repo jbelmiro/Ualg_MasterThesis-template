@@ -1,7 +1,0 @@
-Resumo em português com 1000 palavras, quando a tese é em Inglês.  \par
-
-Segundo parágrafo do resumo. 
-
-\
-
-**Palavras-chave:** Exemplo1; Exemplo2
